@@ -2,3 +2,4 @@ WEB LEARNING
 - Belajar dasar html
 - Belajar dasar css
 - Belajar dasar javascript
+- Belajar Dom
