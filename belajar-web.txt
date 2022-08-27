@@ -4,4 +4,5 @@ TAHAPAN BELAJAR WEB
   *prcesor i core 3
 -siapkan buku belajar
 -siapkan tools yg digunakan
+  *kode editor
 -akses internet
