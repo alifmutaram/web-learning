@@ -1,4 +1,6 @@
 TAHAPAN BELAJAR WEB
 -siapkan devide
+  *ram min 4 gb
+  *prcesor i core 3
 -siapkan tools yg digunakan
 -akses internet
