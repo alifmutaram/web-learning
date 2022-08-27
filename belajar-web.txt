@@ -3,5 +3,6 @@ TAHAPAN BELAJAR WEB
   *ram min 4 gb
   *prcesor i core 3
 -siapkan buku belajar
+  *buku dasar pemprograman
 -siapkan tools yg digunakan
 -akses internet
