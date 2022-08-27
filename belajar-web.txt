@@ -5,4 +5,5 @@ TAHAPAN BELAJAR WEB
 -siapkan buku belajar
   *buku dasar pemprograman
 -siapkan tools yg digunakan
+  *kode editor
 -akses internet
